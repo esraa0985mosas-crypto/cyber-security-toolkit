@@ -1,29 +1,14 @@
+# 🔐 CyberShield Toolkit
 
-# 🔐 Smart Cyber Security Toolkit
+**CyberShield Toolkit** هو تطبيق متكامل بواجهة رسومية (GUI) تم تطويره بلغة **Python** لتوفير أدوات أساسية للأمن السيبراني بشكل مبسط واحترافي.
 
-## 📌 Overview
-A simple yet powerful cybersecurity toolkit built using Python.  
-This tool provides essential security features through a user-friendly GUI interface.
+## 🚀 المميزات (Features)
+- **🔍 Port Scanner:** فحص المنافذ المفتوحة لاكتشاف الثغرات.
+- **🔐 Password Strength Checker:** قياس قوة كلمة المرور وتأمينها.
+- **🔒 File Encryption:** تشفير الملفات باستخدام خوارزميات مكتبة `Cryptography`.
+- **🖥️ Easy GUI:** واجهة سهلة تم تصميمها باستخدام **Tkinter**.
 
----
-
-## 🚀 Features
-- 🔍 Port Scanner (Detect open ports)
-- 🔐 Password Strength Checker
-- 🔒 File Encryption Tool
-- 🖥️ Simple GUI using Tkinter
-
----
-
-## 🛠️ Technologies Used
-- Python
-- Tkinter
-- Cryptography Library
-
----
-
-## ▶️ How to Run
-
-1. Install dependencies:
-```bash
-pip install cryptography
+## 🛠️ المتطلبات التشغيلية
+1. تثبيت مكتبة التشفير:
+   ```bash
+   pip install cryptography
